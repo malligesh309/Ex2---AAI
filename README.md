@@ -1,6 +1,6 @@
 <H1>Experiment 2</H1>
 <h1>Implementation of Exact Inference Method of Bayesian Network</h1>
-<H3>Name: HARSHITHA V</H3>
+<H3>Name: MALLIGESH M</H3>
 <H3>Register No: 21222320119</H3>
 
 
